@@ -1,5 +1,6 @@
 # time-series
-Personal Project on Forecasting with Streamlit
+Personal Project on Forecasting of Service request with country & market wise model or overall model. 
+Here utilized Streamlit as frontend.
 
 Steps:
 Create Environment 
